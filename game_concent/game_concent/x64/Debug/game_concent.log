@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(139,29): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(140,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(141,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(142,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(143,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(163,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(164,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(165,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(166,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(185,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(186,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(187,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(188,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\VML_NUC\source\repos\game_concent\game_concent\main.c(191,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  game_concent.vcxproj -> C:\Users\VML_NUC\source\repos\game_concent\x64\Debug\game_concent.exe
