@@ -1,0 +1,21 @@
+게임 기획서
+장르: 플랫폼(장애물 피하고, 몬스터 잡는 등 마리오 게임 생각하면 됨.)
+언어: C언어
+실행파일(exe): cmd에서 구현 가능하도로 실행파일을 만들 예정.
+
+-이 프로젝트에 참여하는 사람들은 모두 github를 사용할 줄 알아야함.
+-Git 주소: https://github.com/inha0307/concen_game.git로 접속해서 파일 업로드 부탁함.
+-폴더를 만든 후, git 생성하기 (git init)
+-git 정보 동기화
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+git remote add origin https://github.com/inha0307/concen_game.git
+
+-모든 파일을 PULL 받은 다음에 본인 이름 안의 폴더에 작업하기.
+-main.c를 다른 이름으로 저장하기 -> 본인 이름 폴더 안에 넣기.
+-수정된 부분은 카톡방으로 전달하기.
+-git add 폴더이름(본인 이름).
+-git commit -m"이름.04.06.1" ->이름.날짜.오늘커밋한 수
+-git push
+그 파일을 Git에 올리기.
+C언어 코드만 올려주세요.

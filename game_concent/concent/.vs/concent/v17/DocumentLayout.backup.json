@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\concent_game\\game_concent\\concent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051224E6-5843-429B-85D9-2F0A8D8FE031}|concent\\concent.vcxproj|C:\\concent_game\\game_concent\\concent\\concent\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051224E6-5843-429B-85D9-2F0A8D8FE031}|concent\\concent.vcxproj|solutionrelative:concent\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\concent_game\\game_concent\\concent\\concent\\main.c",
+              "RelativeDocumentMoniker": "concent\\main.c",
+              "ToolTip": "C:\\concent_game\\game_concent\\concent\\concent\\main.c*",
+              "RelativeToolTip": "concent\\main.c*",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAIwMIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-06T13:06:56.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
