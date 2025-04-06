@@ -1,0 +1,17 @@
+﻿  main.c
+C:\concent_game\concen_game\game_concent\game_concent\main.c(58,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(229,29): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(230,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(231,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(232,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(233,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(253,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(254,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(255,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(256,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(275,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(276,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(277,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(278,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concen_game\game_concent\game_concent\main.c(281,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  game_concent.vcxproj -> C:\concent_game\concen_game\game_concent\x64\Debug\game_concent.exe
