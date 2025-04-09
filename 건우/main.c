@@ -14,6 +14,8 @@
 #define RED_BACKGROUND "\033[41m" // 붉은 배경
 #define RESET_COLOR "\033[0m" // 색상 초기화
 #define ATTACK_RANGE 10 // 색상 초기화
+#define Map_SkyColor "\033[46m" //맵 하늘부분 색상
+#define Map_GroundColor "\033[42m" //맵 바닥부분 색상
 
 
 // 캐릭터의 각 부위를 나타내는 구조체
@@ -183,8 +185,16 @@ void printMap(Object player, char map[MAP_HEIGHT][MAP_WIDTH])
                 
             }
             else
-            // 기본 맵 문자 출력
-            printf("%c", map[i][j]);
+            {// 기본 맵 문자 출력
+                if (i == MAP_HEIGHT - 1) //맵 바닥 색 지정
+                {
+                    printf(Map_GroundColor"%c"RESET_COLOR, map[i][j]);
+                }
+                else //맵 하늘 색 지정
+                {
+                    printf(Map_SkyColor"%c"RESET_COLOR, map[i][j]);
+                }
+            }
         }
         printf("\n");
     }
