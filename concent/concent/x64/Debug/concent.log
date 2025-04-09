@@ -1,0 +1,26 @@
+﻿  main.c
+C:\concent_game\concent\concent\main.c(101,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(123,28): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(146,34): warning C4047: '함수': 'Object *'의 간접 참조 수준이 'Object (*)[5]'과(와) 다릅니다.
+C:\concent_game\concent\concent\main.c(146,34): warning C4024: 'initialize_monsterHitbox': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\concent_game\concent\concent\main.c(97,10): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+C:\concent_game\concent\concent\main.c(175,21): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\concent_game\concent\concent\main.c(175,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\concent_game\concent\concent\main.c(175,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\concent_game\concent\concent\main.c(336,37): warning C4047: '함수': 'Object **'의 간접 참조 수준이 'Object *'과(와) 다릅니다.
+C:\concent_game\concent\concent\main.c(336,37): warning C4024: 'checkCollision': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\concent_game\concent\concent\main.c(355,29): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\concent_game\concent\concent\main.c(356,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(357,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(358,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(359,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(379,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(380,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(381,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(382,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(403,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(404,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(405,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(406,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\concent_game\concent\concent\main.c(409,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  concent.vcxproj -> C:\concent_game\concent\x64\Debug\concent.exe
